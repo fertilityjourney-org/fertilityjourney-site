@@ -1,0 +1,70 @@
+1:"$Sreact.fragment"
+2:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","974","static/chunks/app/page-975404823d92b261.js"],""]
+3:I[9766,[],""]
+4:I[8924,[],""]
+c:I[7150,[],""]
+:HL["/_next/static/media/68180864d7f93f02-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/78d0dd042ac6d54d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/eaead17c7dbfcd5d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/0273ef32471c8bd7.css","style"]
+0:{"P":null,"b":"cQ6MYzU0wnVWuzYQneDF5","p":"","c":["","privacy",""],"i":false,"f":[[["",{"children":["privacy",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/0273ef32471c8bd7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_082505 __variable_d96fa1","children":["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://fertilityjourney.org/#organization\",\"name\":\"FertilityJourney\",\"url\":\"https://fertilityjourney.org/\",\"description\":\"An independent educational resource for people navigating infertility.\"},{\"@type\":\"WebSite\",\"@id\":\"https://fertilityjourney.org/#website\",\"name\":\"FertilityJourney\",\"url\":\"https://fertilityjourney.org/\",\"publisher\":{\"@id\":\"https://fertilityjourney.org/#organization\"}}]}"}}],["$","a",null,{"href":"#main","className":"skip-link","children":"Skip to main content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"container","children":[["$","$L2",null,{"href":"/","className":"wordmark","children":"FertilityJourney"}],["$","nav",null,{"className":"site-nav","aria-label":"Main","children":[["$","$L2",null,{"href":"/journey/","children":"Your journey"}],["$","$L2",null,{"href":"/resources/","children":"Resources"}],["$","$L2",null,{"href":"/about/","children":"About"}],["$","$L2",null,{"href":"/resources/","className":"cta-rust","children":"Browse resources"}]]}]]}]}],["$","main",null,{"id":"main","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"container page-main","style":{"maxWidth":640},"children":[["$","p",null,{"className":"eyebrow","children":"We couldn’t find that page"}],["$","h1",null,{"children":"This page isn’t here. But you still are."}],["$","p",null,{"className":"body-lg","children":"The link may have moved or the address may have a typo. Wherever you are in this, here are good places to pick back up."}],["$","ul",null,{"className":"checkpoint-list","style":{"marginTop":"var(--space-6)"},"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/journey/","children":"Find answers for where you are right now"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/resources/","children":"Browse the resource library"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/quiz/","children":"Not sure where to start? Take the 2-minute quiz"}]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"container","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"children":[["$","p",null,{"className":"wordmark","style":{"color":"var(--cream)"},"children":"FertilityJourney"}],["$","p",null,{"children":["Your journey is unique.",["$","br",null,{}],"Your experience is shared."]}]]}],["$","nav",null,{"aria-label":"Your journey","children":[["$","p",null,{"className":"footer-heading","children":"Your journey"}],["$","ul",null,{"children":[["$","li","is-it-just-me",{"children":["$","$L2",null,{"href":"/journey/is-it-just-me/","children":"Should I be worried?"}]}],["$","li","weighing-options",{"children":["$","$L2",null,{"href":"/journey/weighing-options/","children":"What are my options?"}]}],["$","li","in-treatment",{"children":["$","$L2",null,{"href":"/journey/in-treatment/","children":"How do I get through this?"}]}],["$","li","exploring-other-paths",{"children":["$","$L2",null,{"href":"/journey/exploring-other-paths/","children":"Where do I go from here?"}]}]]}]]}],["$","nav",null,{"aria-label":"Resources","children":[["$","p",null,{"className":"footer-heading","children":"Resources"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/resources/","children":"Browse resources"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/quiz/","children":"Find your starting point"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/give-back/","children":"Give back"}]}]]}]]}],["$","nav",null,{"aria-label":"About and trust","children":[["$","p",null,{"className":"footer-heading","children":"About"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L2",null,{"href":"/about/","children":"About us"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/trust/","children":"Trust & transparency"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/corrections/","children":"Corrections"}]}],"$L5","$L6"]}]]}]]}],"$L7"]}]}],"$L8"]}]}]]}],{"children":["privacy","$L9",{"children":["__PAGE__","$La",{},null,false]},null,false]},null,false],"$Lb",false]],"m":"$undefined","G":["$c",[]],"s":false,"S":true}
+f:I[4431,[],"ViewportBoundary"]
+11:I[4431,[],"MetadataBoundary"]
+12:"$Sreact.suspense"
+5:["$","li",null,{"children":["$","$L2",null,{"href":"/privacy/","children":"Privacy"}]}]
+6:["$","li",null,{"children":["$","$L2",null,{"href":"/terms/","children":"Terms"}]}]
+7:["$","div",null,{"className":"footer-disclaimer","children":[["$","p",null,{"children":"FertilityJourney provides education, not medical advice. For decisions about your health, talk with a licensed clinician."}],["$","p",null,{"style":{"margin":0},"children":"FertilityJourney is an independent educational resource, never paid by providers. Operated by Fertility Journey LLC; a nonprofit is planned."}]]}]
+8:["$","script",null,{"data-goatcounter":"https://fertilityjourney.goatcounter.com/count","async":true,"src":"//gc.zgo.at/count.js"}]
+9:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+d:T122d,<h1 id="privacy-policy">Privacy Policy</h1>
+<p><strong>Effective date: July 14, 2026</strong></p>
+<p>FertilityJourney (run by Fertility Journey LLC, a Virginia company) is an educational website. This page explains what information we collect, what we never collect, and the choices you have. We wrote it in plain English on purpose.</p>
+<h2 id="the-short-version">The short version</h2>
+<ul>
+<li>We do not ask about your health, and we do not collect health information.</li>
+<li>We never sell your information. To anyone. Ever.</li>
+<li>The only personal information we hold is what you choose to send us — your email address and message, if you email us. The site has no sign-up form and no accounts.</li>
+<li>You can ask us to delete anything you have sent us at any time by emailing <strong><a href="mailto:contact@fertilityjourney.org">contact@fertilityjourney.org</a></strong>.</li>
+</ul>
+<h2 id="what-we-collect">What we collect</h2>
+<p><strong>1. Emails you send us.</strong>
+If you write to <a href="mailto:contact@fertilityjourney.org">contact@fertilityjourney.org</a>, we receive your email address and whatever you choose to write. We use it only to reply to you. Please do not send us medical records or health details. If you do, we will not use them for anything, and you can ask us to delete the message.</p>
+<p><strong>2. Basic, privacy-respecting site analytics.</strong>
+We use a privacy-first analytics tool called <strong>GoatCounter</strong> to count things like page views and which pages people visit, so we know what content helps. It <strong>does not use cookies</strong>, does not build profiles of individual visitors, and does not track you across other websites. It does not store your IP address. We never put anything sensitive in analytics. Which page you read is never tied to who you are.</p>
+<h2 id="what-we-never-collect">What we never collect</h2>
+<p>We know how sensitive fertility is, and we built the site so we do not hold information that could hurt you.</p>
+<ul>
+<li><strong>We never collect reproductive-health information.</strong> No diagnoses, no treatment history, no cycle data, no test results.</li>
+<li><strong>The stage quiz stores nothing.</strong> It runs on your device and points you to resources. Your answers are never sent to us or saved anywhere.</li>
+<li><strong>No accounts, no profiles, no tracking across other websites.</strong></li>
+<li><strong>We never sell, rent, or share your personal information for money or advertising.</strong> No exceptions.</li>
+</ul>
+<p>Because we do not hold reproductive-health data, there is nothing of that kind for anyone to request from us. That includes law enforcement.</p>
+<h2 id="your-rights">Your rights</h2>
+<p>Wherever you live, we give you the same rights, including those under Europe&#39;s GDPR and California&#39;s CCPA/CPRA:</p>
+<ul>
+<li><strong>Know</strong> what we have about you (usually: nothing, unless you have emailed us).</li>
+<li><strong>Correct</strong> it.</li>
+<li><strong>Delete</strong> it.</li>
+<li><strong>No discrimination</strong> for using these rights.</li>
+</ul>
+<p>We do not run a mailing list and do not send marketing email. If we ever add one, it will be opt-in, every message will carry an unsubscribe link, and we will update this policy before that feature ships.</p>
+<p>To use any of these, email <strong><a href="mailto:contact@fertilityjourney.org">contact@fertilityjourney.org</a></strong>. We will respond within 30 days. We do not sell personal information, so there is nothing to opt out of on that front.</p>
+<h2 id="children">Children</h2>
+<p>FertilityJourney is written for adults and is not directed at anyone under 18. We do not knowingly collect information from children. If you believe a child has given us their email address, contact us and we will delete it.</p>
+<h2 id="service-providers">Service providers</h2>
+<p>A small number of companies help us run the site (website hosting, email delivery, email inbox, and privacy-first analytics). They process data only on our instructions and cannot use it for their own purposes. We list our funding and independence commitments on our <a href="/trust/">Trust &amp; Transparency</a> page.</p>
+<h2 id="changes-to-this-policy">Changes to this policy</h2>
+<p>If we change this policy, we will update the effective date at the top and note the change on this page. If a change meaningfully affects newsletter subscribers, we will tell you by email before it takes effect.</p>
+<h2 id="contact">Contact</h2>
+<p>Fertility Journey LLC (Virginia, USA)
+<strong><a href="mailto:contact@fertilityjourney.org">contact@fertilityjourney.org</a></strong></p>
+a:["$","$1","c",{"children":[["$","div",null,{"className":"container page-main","style":{"maxWidth":760},"children":["$","div",null,{"className":"legal-prose","dangerouslySetInnerHTML":{"__html":"$d"}}]}],null,"$Le"]}]
+b:["$","$1","h",{"children":[null,[["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L11",null,{"children":["$","div",null,{"hidden":true,"children":["$","$12",null,{"fallback":null,"children":"$L13"}]}]}]]}]
+14:I[4431,[],"OutletBoundary"]
+16:I[5278,[],"AsyncMetadataOutlet"]
+e:["$","$L14",null,{"children":["$L15",["$","$L16",null,{"promise":"$@17"}]]}]
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:null
+17:{"metadata":[["$","title","0",{"children":"Privacy Policy · FertilityJourney"}],["$","meta","1",{"name":"description","content":"How FertilityJourney handles your data. We track navigation behavior only, never your medical details, and we don't sell anything to anyone."}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://fertilityjourney.org/privacy/"}],["$","meta","4",{"property":"og:title","content":"Privacy Policy — FertilityJourney"}],["$","meta","5",{"property":"og:description","content":"How FertilityJourney handles your data. We track navigation behavior only, never your medical details, and we don't sell anything to anyone."}],["$","meta","6",{"property":"og:url","content":"https://fertilityjourney.org/privacy/"}],["$","meta","7",{"property":"og:site_name","content":"FertilityJourney"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary"}],["$","meta","10",{"name":"twitter:title","content":"Privacy Policy — FertilityJourney"}],["$","meta","11",{"name":"twitter:description","content":"How FertilityJourney handles your data. We track navigation behavior only, never your medical details, and we don't sell anything to anyone."}]],"error":null,"digest":"$undefined"}
+13:"$17:metadata"
